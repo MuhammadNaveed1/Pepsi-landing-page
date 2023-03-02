@@ -1,0 +1,32 @@
+/* NAV START */
+.logo {
+    width: 60px !important;
+    margin-left: 25px !important;
+}
+.navBtn {
+    width: 220px;
+    padding: 2px !important;
+    color: white !important;
+    border: 2px solid white !important;
+    border-radius: 15px !important;
+    font-weight: bold !important;
+    margin-right: 40px !important;
+}
+.navBtn:hover {
+    background-color: white !important;
+    color: #0065c3 !important;
+}
+.navUl li a{
+    margin-left: 40px !important;
+    color: white !important;
+    font-size: 80% !important;
+    font-weight: bold;
+}
+.navBar {
+    background-color: #0065c3 !important;
+    height: 110px !important;
+    margin-top: -8px;
+    margin-bottom: -8px;
+}
+
+/* NAV END */
