@@ -24,9 +24,30 @@
 }
 .navBar {
     background-color: #0065c3 !important;
-    height: 110px !important;
     margin-top: -8px;
     margin-bottom: -8px;
+    z-index: 1;
 }
-
+.dropdown li a{
+    color: #0264bf !important;
+}
 /* NAV END */
+
+/* SECTION ONE START */ 
+.sectionone {
+    background-color: #000;
+    display: flex;
+}
+.seconeimg {
+    width: 60%;
+    border: 5px solid red;
+}
+.seconeimg img {
+    width: 100%;
+    height: 100%;
+    border: 1px solid green;
+}
+.seconetext {
+    border: 5px solid green;
+    width: 40%;
+}
